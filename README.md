@@ -3,7 +3,10 @@
 A dynamic and responsive quiz web application built with HTML, CSS, and JavaScript. Test your knowledge and see your score instantly!
 
 ## 📸 Screenshot
-![Quiz Screenshot](screenshots/quiz.png)
+![Quiz Screenshot]
+![Image](https://github.com/user-attachments/assets/ccc0c43f-21df-4ac2-82e3-972b992429a4)
+![Image](https://github.com/user-attachments/assets/2de24728-8e2f-4801-9a5f-38a795809af7)
+![Image](https://github.com/user-attachments/assets/3d395d31-6892-45bf-a564-8fa7c60b0eb0)
 
 ## ✨ Features
 - 🚀 Start & Retake functionality
